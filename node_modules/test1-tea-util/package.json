@@ -1,0 +1,33 @@
+{
+  "name": "test1-tea-util",
+  "version": "1.0.1",
+  "description": "fatser svg utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "dependencies": {
+      "async": "~0.9.0",
+      "dxf-parsing": "^0.3.7",
+      "gm": "~1.17.0",
+      "underscore": "~1.7.0",
+      "xml2js": "~0.4.4",
+      "xmlbuilder": "^2.4.3"
+    },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wessnian/test1-tea-util"
+  },
+  "keywords": [
+    "design",
+    "svg",
+    "util",
+    "npm"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wessnian/test1-tea-util/issues"
+  },
+  "homepage": "https://github.com/wessnian/test1-tea-util#readme"
+}
